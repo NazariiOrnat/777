@@ -13,3 +13,9 @@ switch (a) {
   default:
     alert('Число завелике' + a)
 }
+
+var i;
+
+for (i = 0; i < 5; i++) {
+  alert( i );
+}
